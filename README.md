@@ -9,7 +9,7 @@ Este projeto utiliza um modelo de **Machine Learning** para prever o preço de a
 ```
 /
 ├── notebooks/
-│   ├── main.ipynb  # Notebook principal com o treinamento e previsão
+│   ├── LH_CD_MATEUS_RONI.ipynb  # Notebook principal com o treinamento e previsão
 ├── model/
 │   ├── model.pkl  # Modelo treinado salvo
 ├── data/
